@@ -1,0 +1,8 @@
+C:\Users\ASUS\Documents\Practica\Practica\bin\Debug\Practica.exe.config
+C:\Users\ASUS\Documents\Practica\Practica\bin\Debug\Practica.exe
+C:\Users\ASUS\Documents\Practica\Practica\bin\Debug\Practica.pdb
+C:\Users\ASUS\Documents\Practica\Practica\obj\x86\Debug\Practica.Form1.resources
+C:\Users\ASUS\Documents\Practica\Practica\obj\x86\Debug\Practica.Properties.Resources.resources
+C:\Users\ASUS\Documents\Practica\Practica\obj\x86\Debug\Practica.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Practica\Practica\obj\x86\Debug\Practica.exe
+C:\Users\ASUS\Documents\Practica\Practica\obj\x86\Debug\Practica.pdb
